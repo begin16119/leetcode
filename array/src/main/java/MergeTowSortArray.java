@@ -12,7 +12,7 @@
  * You may assume that A has enough space to hold additional elements from B.
  * The number of elements initialized in A and B are m and n respectively.
  *
- * A数组可能没有足够的空间存放B数组。m和n表示A和B的初始大小。
+ * A数组有足够的空间存放B数组。m和n表示A和B的初始大小。
  */
 public class MergeTowSortArray {
     /**
